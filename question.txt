@@ -1,0 +1,6 @@
+1> What is JWT?
+2> Why we need JWT?
+3> What inside JWT?
+4> What easy is made by JWT?
+
+https://www.youtube.com/watch?v=cF3D0aDpFRg
